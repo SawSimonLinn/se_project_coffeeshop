@@ -6,6 +6,7 @@
   flex-direction: column;
   background-image: url("../images/background_header.svg");
   background-size: 100%;
+  background-position: center;
   z-index: 1;
   position: relative;
   box-sizing: border-box;
@@ -32,13 +33,13 @@
   max-width: 646px;
   height: 568px;
   position: absolute;
-  z-index: 0;
+  z-index: -1;
   top: 124px;
   right: 5px;
 }
 
 .header__span-accent {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Time News Roman", serif;
   font-style: italic;
   font-weight: normal;
   font-size: 60px;

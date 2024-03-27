@@ -1,4 +1,5 @@
 .menu {
+  font-family: "Inter", Arial, sans-serif;
   background-color: #fff;
   background-image: url("../images/background_menu.svg");
   background-position: center;
@@ -16,7 +17,7 @@
 }
 
 .menu__subtitle {
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   text-align: center;
@@ -31,39 +32,4 @@
   flex-wrap: wrap;
   gap: 100px;
   padding: 0;
-}
-
-.card {
-  width: 540px;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  height: 100%;
-}
-
-.card__title {
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 0 0 32px 0;
-}
-
-.card__list {
-  padding: 0;
-}
-
-.card__list-item {
-  font-family: "Noto Serif";
-  list-style: none;
-  margin: 0 0 16px;
-  display: flex;
-}
-
-.card__list-item:last-child {
-  margin: 0;
-}
-
-.card__list-divider {
-  border-bottom: 1px solid #000;
-  flex-grow: 1;
 }
