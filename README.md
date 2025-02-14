@@ -39,6 +39,6 @@ As this is a static website, you can run it locally or deploy it to any web serv
    ```bash
    git clone https://github.com/SawSimonLinn/se_project_coffeeshop.git
    cd se_project_coffeeshop
-2.  **Open the website:
+2.  **Open the website:**
 
-Simply open the index.html file in your preferred web browser.
+Simply open the *index.html* file in your preferred web browser.
