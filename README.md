@@ -26,7 +26,7 @@ Experience the live version of the project here: [Triple Peaks Coffee Shop Live 
 
 For a comprehensive walkthrough of the website's features, watch the demo video:
 
-[![Triple Peaks Coffee Shop Demo Video](https://example.com/demo-thumbnail.png)](https://example.com/demo-video.mp4)
+[![Triple Peaks Coffee Shop Demo Video](https://demirsondaj.com.tr/wp-content/uploads/demo/placeholder.svg)](https://example.com/demo-video.mp4)
 
 ## Deployment and System Requirements
 
