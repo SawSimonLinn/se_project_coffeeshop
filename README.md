@@ -41,4 +41,4 @@ As this is a static website, you can run it locally or deploy it to any web serv
    cd se_project_coffeeshop
 2.  **Open the website:**
 
-Simply open the *index.html* file in your preferred web browser.
+Simply open the `index.html` file in your preferred web browser.
