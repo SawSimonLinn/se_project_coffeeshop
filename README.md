@@ -2,7 +2,7 @@
 
 A static website built with Semantic HTML5, Flexbox, and Positioning for a well-structured layout. It follows a Flat BEM file structure, includes a custom form, and features CSS animations and transforms for an engaging user experience.
 
-![Triple Peaks Coffee Shop Screenshot](https://example.com/screenshot.png)
+![Triple Peaks Coffee Shop Screenshot](./images/Screenshot.png)
 
 ## Description
 
@@ -39,6 +39,8 @@ As this is a static website, you can run it locally or deploy it to any web serv
    ```bash
    git clone https://github.com/SawSimonLinn/se_project_coffeeshop.git
    cd se_project_coffeeshop
-2.  **Open the website:**
+   ```
+
+2. **Open the website:**
 
 Simply open the `index.html` file in your preferred web browser.
